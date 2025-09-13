@@ -43,11 +43,12 @@ InteriorWebsite/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/InteriorWebsite.git
-
+git clone https://github.com/chaitanyathakor45/InteriorWebsite.git
+```
 ### 2. Navigate into the Project Folder
 ```bash
 cd InteriorWebsite
+```
 
 ### 3. Open in Browser
 
